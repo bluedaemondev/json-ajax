@@ -1,0 +1,31 @@
+[
+	{
+		"id" : 3,
+		"firstName" : "Hernan",
+		"lastName" : "Rodriguez",
+		"description" : "lawyer",
+		"abilities" : {	
+			"languajes":["spanish"],
+			"human":true
+		}
+	},
+	{
+		"id" : 4,
+		"firstName" : "Martha",
+		"lastName" : "Pereira",
+		"description" : "developer",
+		"abilities" : {	
+			"languajes":["spanish","english"],
+			"human":false
+		}
+	},
+	{
+		"id" : 5,
+		"firstName" : "Ricardo",
+		"lastName" : "Gomez",
+		"description" : "visual artist",
+		"abilities" : {	
+			"languajes":["english"],
+			"human":false
+		}
+	}
