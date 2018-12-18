@@ -1,0 +1,32 @@
+[
+	{
+		"id" : 0,
+		"firstName" : "Juan",
+		"lastName" : "Lanosa",
+		"description" : "game designer"
+		"abilities" : {	
+			"languajes":["spanish","english","german"],
+			"human":false
+		}
+	},
+	{
+		"id" : 1,
+		"firstName" : "Jose",
+		"lastName" : "Perez",
+		"description" : "developer",
+		"abilities" : {	
+			"languajes":["spanish","english"],
+			"human":true
+		}
+	},
+	{
+		"id" : 2,
+		"firstName" : "Ricardo",
+		"lastName" : "Gomez",
+		"description" : "visual artist"
+		"abilities" : {	
+			"languajes":["english"],
+			"human":true
+		}
+	},
+]
