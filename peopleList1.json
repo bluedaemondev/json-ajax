@@ -3,7 +3,7 @@
 		"id" : 0,
 		"firstName" : "Juan",
 		"lastName" : "Lanosa",
-		"description" : "game designer"
+		"description" : "game designer",
 		"abilities" : {	
 			"languajes":["spanish","english","german"],
 			"human":false
