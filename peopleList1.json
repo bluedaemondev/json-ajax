@@ -23,7 +23,7 @@
 		"id" : 2,
 		"firstName" : "Ricardo",
 		"lastName" : "Gomez",
-		"description" : "visual artist"
+		"description" : "visual artist",
 		"abilities" : {	
 			"languajes":["english"],
 			"human":true
