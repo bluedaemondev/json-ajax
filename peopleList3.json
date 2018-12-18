@@ -1,0 +1,31 @@
+[
+	{
+		"id" : 7,
+		"firstName" : "Ayelen",
+		"lastName" : "Artiga",
+		"description" : "stewardess",
+		"abilities" : {	
+			"languajes":["spanish","english"],
+			"human":true
+		}
+	},
+	{
+		"id" : 8,
+		"firstName" : "Estefania",
+		"lastName" : "Gonzalez",
+		"description" : "receptionist",
+		"abilities" : {	
+			"languajes":["english"],
+			"human":false
+		}
+	},
+	{
+		"id" : 9,
+		"firstName" : "Roberta",
+		"lastName" : "Gomez",
+		"description" : "visual artist",
+		"abilities" : {	
+			"languajes":["english","japanese"],
+			"human":false
+		}
+	}
